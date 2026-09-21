@@ -223,4 +223,4 @@ RetroShare is provided as a full free version, with all features available and n
 Ready to take control of your online communications? **Download RetroShare for free today and join a secure, private network!**
 
 ---
-**Last updated:** 2026-09-21 05:45:04 UTC
+**Last updated:** 2026-09-21 11:38:56 UTC
